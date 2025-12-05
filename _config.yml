@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://mask141204.github.io/myblog
+# url: https://mask141204.github.io/myblog
+url: https://www.myblog.com
 # permalink: :year/:month/:day/:title/
 permalink: posts/:title/
 permalink_defaults:
@@ -97,6 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+# 设置主题
 theme: kratos-rebirth
 
 
